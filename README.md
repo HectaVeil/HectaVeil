@@ -9,7 +9,7 @@
 🚀 Always learning, always building, always leveling up.
 
 <p align="center">
-  <img width="480" height="384" src="https://github.com/user-attachments/assets/88079a11-654e-4dfb-b545-ec49cfd34032" />
+  <img src="https://github.com/user-attachments/assets/88079a11-654e-4dfb-b545-ec49cfd34032" style="width:100%; height:auto;" />
 </p>
 
 
