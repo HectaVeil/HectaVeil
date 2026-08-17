@@ -8,5 +8,7 @@
 
 🚀 Always learning, always building, always leveling up.
 
+<img width="450" height="450" alt="giphy" src="https://github.com/user-attachments/assets/c2d13c1a-55e2-4e10-a0c6-df3c1669deb0" />
+
 
 
